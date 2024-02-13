@@ -1,0 +1,153 @@
+.page1 {
+  background-color: #11cdd4;
+  height: 100vh;
+}
+.contener {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+.head1 {
+  margin-top: 15%;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 60px;
+  margin-bottom: 0px;
+}
+.head1,
+.prg1 {
+  color: #fff;
+}
+.page1 {
+  margin-top: 0px;
+
+  font-family: "Libre Baskerville", serif;
+}
+.under {
+  text-decoration: underline;
+}
+.svg1 {
+  position: absolute;
+  height: 100px;
+  right: 15%;
+  top: 5%;
+}
+.Pn4dOA {
+  position: absolute;
+  bottom: 0px;
+  width: 70%;
+}
+@media (max-width: 900px) {
+  .head1 {
+    margin-top: 25%;
+  }
+  .svg1 {
+    height: 80px;
+  }
+  .Pn4dOA {
+    position: absolute;
+    bottom: 0px;
+    width: 70%;
+    height: 40%;
+  }
+}
+@media (max-width: 565px) {
+  .head1 {
+    margin-top: 50%;
+  }
+  .svg1 {
+    height: 60px;
+  }
+}
+.img1 {
+  height: 200px;
+  border-radius: 50%;
+}
+.head2,
+.prg2 {
+  color: #05a2a8;
+}
+.hr1 {
+    
+  border-top: 10px dotted #05a2a8 ; !important
+  width: 100px;
+}
+.img2 {
+  float: left;
+  height: 100%;
+  border-radius: 50%;
+ 
+  border-right:2px solid #05a2a8;
+  margin-left: 5px;
+}
+.con1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 700px;
+  width:100% ;
+}
+.con2{
+  
+  border: 2px solid #05a2a8;
+  height: 150px;
+ 
+}
+.h32{
+  margin-bottom: 0;
+  text-align: center;
+  color: #05a2a8;
+  font-family: "Libre Baskerville", serif;
+}
+.prg3{
+  text-align: center;
+  margin: 0;
+}
+.imge3{
+  height:100%;
+  width: 20%;
+}
+.head2{
+  font-family: "Libre Baskerville", serif;
+}
+.class2{
+  height: 100px;
+}
+.class3{
+  height: auto;
+}
+.logo{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.lol{
+  margin-left: 20px;
+
+}
+
+.page12 {
+  background-color: #11cdd4;
+  margin-bottom:0 ;
+} 
+.m2{
+  text-align: center;
+ color:#05a2a8 ;
+}
+#bom{
+  background-color: #05a2a8;
+font-family: Arial, Helvetica, sans-serif; !important
+}
+h1{
+  font-family: "Libre Baskerville", serif;
+}
+.Pn4dOA1{
+  position: absolute;
+  height: 100px;
+  right: 10%;
+}
+a{
+  color: black;
+}
